@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c756b62b-af20-4e6e-be17-ab6fdafa73d0" name="Default Changelist" comment="数据预处理">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="193" selection-start-line="193" selection-end-line="193" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/utils/SystemParas.java" />
+        <option value="$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/Q.txt" />
+        <option value="$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/A.txt" />
+        <option value="$PROJECT_DIR$/src/preprocessing/dictionaryManage/DeleteEmptyNRepetition.java" />
+        <option value="$PROJECT_DIR$/src/preprocessing/dictionaryManage/VocabularyGeneration.java" />
+        <option value="$PROJECT_DIR$/file/Corpus/FAQFeatureWords.txt" />
+        <option value="$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java" />
+        <option value="$PROJECT_DIR$/file/Corpus/FAQ/segmentation/Q_delEmpNRep_Segmentation.txt" />
+        <option value="$PROJECT_DIR$/file/Dictionary/自定义分词词典/分词表扩展.txt" />
+        <option value="$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-81" />
+    <option name="y" value="109" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
+              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
+              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
+              <item name="deleteEmptyNRepetition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
+              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
+              <item name="segmentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="停用词词典" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="Dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="自定义分词词典" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
+              <item name="stopWordsFilter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575284275454" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="preprocessing.stopWordsFilter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Project\FAQSystem\lib" />
+      <recent name="G:\Project\FAQSystem\src" />
+      <recent name="G:\Project\FAQSystem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NlpirTest">
+    <configuration name="DeleteEmptyNRepetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preprocessing.dictionaryManage.DeleteEmptyNRepetition" />
+      <module name="FAQSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preprocessing.dictionaryManage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NlpirTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preprocessing.chineseWordSegmentation.code.NlpirTest" />
+      <module name="FAQSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preprocessing.chineseWordSegmentation.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocabularyGeneration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preprocessing.dictionaryManage.VocabularyGeneration" />
+      <module name="FAQSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preprocessing.dictionaryManage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javacsv.jar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/javacsv.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jna-4.0.0.jar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/jna-4.0.0.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NlpirTest" />
+        <item itemvalue="Application.VocabularyGeneration" />
+        <item itemvalue="Application.DeleteEmptyNRepetition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c756b62b-af20-4e6e-be17-ab6fdafa73d0" name="Default Changelist" comment="" />
+      <created>1575250318115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575250318115</updated>
+      <workItem from="1575250321815" duration="10528000" />
+      <workItem from="1575277295684" duration="1616000" />
+      <workItem from="1575279508447" duration="2414000" />
+    </task>
+    <task id="LOCAL-00001" summary="数据预处理">
+      <created>1575273416499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575273416499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14558000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24886535" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.047468353" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3147541" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.318038" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据预处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据预处理" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/resultIntegration/ResultIntegration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/stopWordsFilter/neg_Segmentation_stopWordsFilter.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/preprocessed/preprocessedCorpus.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/preprocessed/preprocessedFeatureWords.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/extractionOfFeatureWords/neg_Segmentation_stopWordsFilter_extOfFeaWor.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/segmentation/neg_Segmentation.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/segmentation/pos_Segmentation.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/rawCorpus/neg.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/rawCorpus/pos.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/stopWordsFilter/Q_delEmpNRep_Segmentation_stopWordsFilter.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/stopWordsFilter/pos_Segmentation_stopWordsFilter.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/情感词词典/知网情感分析用词语集(beta版)/正面情感词语（中文）.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/情感词词典/知网情感分析用词语集(beta版)/负面评价词语（中文）.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/情感词词典/网络流行词汇/negtive.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/情感词词典/网络流行词汇/normal.txt" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQExtra/rawCorpus/Q.txt" />
+    <entry file="file://$PROJECT_DIR$/src/tfidfSimilarity/Precomputation.java" />
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/utility/GetFileName.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java" />
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/utils/SystemParas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/utils/ReadConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="907">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding>
+            <element signature="e#1196#1197#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/extractionOfFeatureWords/ExtractionOfFeatureWords.java" />
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/utility/FileOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1757">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQCorpus.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" />
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/Q.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/A.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/dictionaryManage/DeleteEmptyNRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/deleteEmptyNRepetition/A_delEmpNRep.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2359">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/deleteEmptyNRepetition/Q_delEmpNRep.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/dictionaryManage/VocabularyGeneration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1369">
+          <caret line="76" column="44" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/A_.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQFeatureWords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/segmentation/A_delEmpNRep_Segmentation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/segmentation/Q_delEmpNRep_Segmentation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/自定义分词词典/分词表扩展.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="72" column="78" lean-forward="true" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/停用词词典/哈工大停用词表扩展.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FAQSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
