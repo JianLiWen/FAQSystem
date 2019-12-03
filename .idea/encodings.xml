@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/file/Corpus/FAQ/deleteEmptyNRepetition/Q_delEmpNRep.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/A.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/Q.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/Corpus/FAQ/segmentation/A_delEmpNRep_Segmentation.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/file/Corpus/FAQ/segmentation/Q_delEmpNRep_Segmentation.txt" charset="GB2312" />
     <file url="file://$PROJECT_DIR$/file/Dictionary/自定义分词词典/分词表扩展.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/file/ICTCLAS2019/Data/NLPIR.user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib" charset="GBK" />
@@ -16,6 +18,8 @@
     <file url="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/preprocessing/utility/FileOperate.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/preprocessing/utility/GetFileName.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>

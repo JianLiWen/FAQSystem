@@ -361,7 +361,7 @@ public class StopWordsFilter {
 
 	public static void main(String[] args) {
 		String rootPath = ".\\file\\Corpus\\"; // 存放语料文件的根路径
-		String inputFilePath = rootPath + "FAQ\\segmentation\\A_delEmpNRep_Segmentation.txt";	 // 输入文件的路径，即需要处理的文件路径
+		String inputFilePath = rootPath + "FAQ\\segmentation\\Q_delEmpNRep_Segmentation.txt";	 // 输入文件的路径，即需要处理的文件路径
 		String outputFilePath = rootPath + "FAQ"; // 保存停用词过滤后的评论文本
 		
 		/*

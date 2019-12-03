@@ -1,108 +1,108 @@
-什么 是 Java 虚拟机 ？ 为什么 Java 被 称作 是 “ 平 台 无关 的 编程 语言 ” ？ 
-ArrayList 和 LinkedList 有 什么 区别 ？ 
-为什么 集合 类 没有 实现 Cloneable 和 Serializable 接口 ？ 
-hashCode ( ) 和 equals ( ) 方法 的 重要性 体现 在 什么 地方 ？ 
-数组 ( Array ) 和 列表 ( ArrayList ) 有 什么 区别 ？ 什么 时候 应该 使用 Array 而 不 是 ArrayList ？ 
-HashMap 和 Hashtable 有 什么 区别 ？ 
-Java 中 的 HashMap 的 工作 原理 是 什么 ？ 
-Java 集合 类 框架 的 基本 接口 有 哪些 ？ 
-什么 是 迭 代 器 ( Iterator ) ？ 
-Iterator 和 ListIterator 的 区别 是 什么 ？ 
-如何 确保 N 个 线程 可以 访问 N 个 资源 同时 又 不 导致 死锁 ？ 
-在 监视器 ( Monitor ) 内部 ， 是 如何 做 线程 同步 的 ？ 程序 应该 做 哪 种 级别 的 同步 ？ 
-创建 线程 有 几 种 不同 的 方式 ？ 你 喜欢 哪 一 种 ？ 为什么 ？ 
-继承 的 定义 ？ 
-多 态 的 定义 ？ 
-封装 的 定义 和 好处 有 哪些 ？ 
-面向 对象 软件 开发 的 优点 有 哪些 ？ 
-隐含 对象 是 什么 意思 ？ 有 哪些 隐含 对象 ？ 
-什么 是 表达式 ( Expression ) ？ 
-声明 ( Decalaration ) 在 哪里 ？ 
-什么 是 Scriptlets ？ 
-什么 是 JSP 动作 ( JSP   action ) ？ 
-什么 是 JSP 指令 ( Directive ) ？ JSP 中 有 哪些 不同 类型 的 指令 ？ 
-JSP 有 什么 优点 ？ 
-JSP 请求 是 如何 被 处理 的 ？ 
-什么 是 JSP 页面 ？ 
-什么 是 URL 编码 和 URL 解码 ？ 
-sendRedirect ( ) 和 forward ( ) 方法 有 什么 区别 ？ 
-什么 是 HTTP 隧道 ？ 
-浏览器 和 Servlet 通信 使用 的 是 什么 协议 ？ 
-什么 是 cookie ？ session 和 cookie 有 什么 区别 ？ 
-HTTP 响应 的 结构 是 怎么样 的 ？ 
-如何 知道 是 哪 一个 客户端 的 机器 正在 请求 你 的 Servlet ？ 
-什么 是 Servlet 链 ( Servlet   Chaining ) ？ 
-什么 是 服务端 包含 ( Server   Side   Include ) ？ 
-什么 是 Web 应用 程序 ？ 
-doGet ( ) 方法 和 doPost ( ) 方法 有 什么 区别 ？ 
-解释 下 Servlet 的 生命 周期 。 
-Applet 和 Servlet 有 什么 区别 ？ 
-说 一下 Servlet 的 体系 结构 。 
-什么 是 Servlet ？ 
-解释 下 Serialization 和 Deserialization 。 
-解释 下 Marshalling 和 demarshalling 。 
-RMI 中 使用 RMI 安全 管理 器 ( RMISecurityManager ) 的 目的 是 什么 ？ 
-什么 是 分布式 垃圾 回收 ( DGC ) ？ 它 是 如何 工作 的 ？ 
-RMI 的 stub 扮演 了 什么样 的 角色 ？ 
-让 RMI 程序 能 正确 运行 有 哪些 步骤 ？ 
-Naming 类 的 bind ( ) 和 rebind ( ) 方法 有 什么 区别 ？ 
-RMI 的 绑定 ( Binding ) 是 什么 意思 ？ 
-RMI 中 的 远程 接口 ( Remote   Interface ) 扮演 了 什么样 的 角色 ？ 
-java.rmi.Naming 类 扮演 了 什么样 的 角色 ？ 
-RMI 体系 结构 分 哪 几 层 ？ 
-RMI 体系 结构 的 基本 原则 是 什么 ？ 
-什么 是 RMI ？ 
-数据库 连接池 是 什么 意思 ？ 
-什么 时候 使用 CallableStatement ？ 用 来 准备 CallableStatement 的 方法 是 什么 ？ 
-PreparedStatement 比 Statement 有 什么 优势 ？ 
-解释 下 驱动 ( Driver ) 在 JDBC 中 的 角色 。 
-什么 是 JDBC ？ 
-Java 的 Swing 组 件 使用 了 哪 种 设计 模式 ？ 
-Java 的 布局 管理 器 比 传统 的 窗口 系统 有 哪些 优势 ？ 
-GUI 组 件 如何 来 处理 它 自己 的 事件 ？ 
-事件 监听器 接口 ( event - listener   interface ) 和 事件 适配器 ( event - adapter ) 有 什么 关系 ？ 
-裁剪 ( clipping ) 和 重 绘 ( repainting ) 有 什么 联系 ？ 
-Window 和 Frame 有 什么 区别 ？ 
-网格 包 布局 ( GridBagLayout ) 里面 的 元素 是 如何 布局 的 ？ 
-边缘 布局 ( BorderLayout ) 里面 的 元素 是 如何 布局 的 ？ 
-MenuItem 和 CheckboxMenuItem 的 区别 是 什么 ？ 
-什么 是 裁剪 ( clipping ) ？ 
-说 出 三 种 支持 重 绘 ( painting ) 的 组件 。 
-哪些 Swing 的 方法 是 线程 安全 的 ？ 
-滚动 条 ( Scrollbar ) 和 滚动 面板 ( JScrollPane ) 有 什么 区别 ？ 
-什么 是 布局 管理 器 ？ 
-弹 出 式 选择 菜单 ( Choice ) 和 列表 ( List ) 有 什么 区别 
-applet 安全 管理 器 是 什么 ？ 它 会 做 哪些 工作 ？ 
-applet 类 加 载 器 是 什么 ？ 它 会 做 哪些 工作 ？ 
-从 网络 上 加 载 的 applet 和 从 本地 文件 系统 加 载 的 applet 有 什么 区别 ？ 
-什么 是 不 受 信任 的 applet ？ 
-Java   applet 有 哪些 限制 条件 ？ 
-Applet 和 普通 的 Java 应用 程序 有 什么 区别 ？ 
-当 applet 被 载入 的 时候 会 发生 什么 ？ 
-解释 一下 Applet 的 生命 周期 
-什么 是 Applet ？ 
-finally 代码 块 和 finalize ( ) 方法 有 什么 区别 ？ 
-异常 处理 完成 以后 ， Exception 对象 会 发生 什么 变化 ？ 
-Java 中 Exception 和 Error 有 什么 区别 ？ 
-Java 中 的 两 种 异常 类型 是 什么 ？ 他们 有 什么 区别 ？ 
-JVM 的 永久代 中 会 发生 垃圾 回收 么 ？ 
-在 Java 中 ， 对象 什么 时候 可以 被 垃圾 回收 ？ 
-串行 ( serial ) 收集 器 和 吞吐量 ( throughput ) 收集 器 的 区别 是 什么 ？ 
-Java 堆 的 结构 是 什么 样子 的 ？ 什么 是 堆 中 的 永久代 ( Perm   Gen   space ) ? 
-如果 对象 的 引用 被 置 为 null ， 垃圾收集器 是否 会 立即 释放 对象 占用 的 内存 ？ 
-System.gc ( ) 和 Runtime.gc ( ) 会 做 什么 事情 ？ 
-Enumeration 接口 和 Iterator 接口 的 区别 有 哪些 ？ 
-HashSet 和 TreeSet 有 什么 区别 ？ 
-Java 集合 类 框架 的 最佳 实践 有 哪些 ？ 
-如何 权衡 是 使用 无序 的 数组 还是 有序 的 数组 ？ 
-你 了解 大 O 符号 ( big - O   notation ) 么 ？ 你 能 给 出 不同 数据 结构 的 例子 么 ？ 
-什么 是 Java 优先级 队列 ( Priority   Queue ) ？ 
-Comparable 和 Comparator 接口 是 干什么 的 ？ 列 出 它们 的 区别 。 
-Java 支持 多 继承 么 ？ 
-接口 和 抽象 类 的 区别 是 什么 ？ 
-Java 中 的 方法 覆盖 ( Overriding ) 和 方法 重载 ( Overload ) 是 什么 意思 ？ 
-Java 中 ， 什么 是 构造 方法 ？ 什么 是 构造 方法 重载 ？ 什么 是 复制 构造 方法 ？ 
-Java 支持 的 数据 类型 有 哪些 ？ 什么 是 自动 拆 装箱 ？ 
-” static ” 关键字 是 什么 意思 ？ Java 中 是否 可以 覆盖 ( override ) 一个 private 或者 是 static 的 方法 ？ 
-是否 可以 在 static 环境 中 访问 非 static 变量 ？ 
-什么 是 死锁 ( deadlock ) ？ 
+什么/ry 是/vshi Java/nz 虚拟机/nz ？/ww 为什么/ryv Java/nz 被/pbei 称作/v 是/vshi “/wyz 平/a 台/q 无关/v 的/ude1 编程/vn 语言/n ”/wyy ？/ww 
+ArrayList/n 和/cc LinkedList/n 有/vyou 什么/ry 区别/n ？/ww 
+为什么/ryv 集合/v 类/n 没有/d 实现/v Cloneable/n 和/cc Serializable/n 接口/n ？/ww 
+hashCode/n (/wkz )/wky 和/cc equals/n (/wkz )/wky 方法/n 的/ude1 重要性/n 体现/v 在/p 什么/ry 地方/n ？/ww 
+数组/n (/wkz Array/n )/wky 和/cc 列表/vi (/wkz ArrayList/n )/wky 有/vyou 什么/ry 区别/n ？/ww 什么/ry 时候/n 应该/v 使用/v Array/n 而/cc 不/d 是/vshi ArrayList/n ？/ww 
+HashMap/n 和/cc Hashtable/n 有/vyou 什么/ry 区别/n ？/ww 
+Java/nz 中/f 的/ude1 HashMap/n 的/ude1 工作/vn 原理/n 是/vshi 什么/ry ？/ww 
+Java/nz 集合/n 类/q 框架/n 的/ude1 基本/a 接口/n 有/vyou 哪些/ry ？/ww 
+什么/ry 是/vshi 迭/d 代/v 器/n (/wkz Iterator/n )/wky ？/ww 
+Iterator/n 和/cc ListIterator/n 的/ude1 区别/n 是/vshi 什么/ry ？/ww 
+如何/ryv 确保/v N/o 个/q 线程/n 可以/v 访问/v N/o 个/q 资源/n 同时/c 又/d 不/d 导致/v 死锁/n ？/ww 
+在/p 监视器/n (/wkz Monitor/a )/wky 内部/f ，/wd 是/vshi 如何/ryv 做/v 线程/n 同步/vi 的/ude1 ？/ww 程序/n 应该/v 做/v 哪/ry 种/q 级别/n 的/ude1 同步/vn ？/ww 
+创建/v 线程/n 有/vyou 几/m 种/q 不同/a 的/ude1 方式/n ？/ww 你/rr 喜欢/vi 哪/ry 一/m 种/q ？/ww 为什么/ryv ？/ww 
+继承/v 的/ude1 定义/n ？/ww 
+多/m 态/ng 的/ude1 定义/n ？/ww 
+封装/v 的/ude1 定义/n 和/cc 好处/n 有/vyou 哪些/ry ？/ww 
+面向/v 对象/n 软件/n 开发/vn 的/ude1 优点/n 有/vyou 哪些/ry ？/ww 
+隐含/v 对象/n 是/vshi 什么/ry 意思/n ？/ww 有/vyou 哪些/ry 隐含/v 对象/n ？/ww 
+什么/ry 是/vshi 表达式/n (/wkz Expression/n )/wky ？/ww 
+声明/n (/wkz Decalaration/n )/wky 在/p 哪里/rys ？/ww 
+什么/ry 是/vshi Scriptlets/n ？/ww 
+什么/ry 是/vshi JSP/n 动作/n (/wkz JSP/n   action/n )/wky ？/ww 
+什么/ry 是/vshi JSP/n 指令/n (/wkz Directive/n )/wky ？/ww JSP/n 中/f 有/vyou 哪些/ry 不同/a 类型/n 的/ude1 指令/n ？/ww 
+JSP/n 有/vyou 什么/ry 优点/n ？/ww 
+JSP/n 请求/n 是/vshi 如何/ryv 被/pbei 处理/v 的/ude1 ？/ww 
+什么/ry 是/vshi JSP/n 页面/n ？/ww 
+什么/ry 是/vshi URL/n 编码/n 和/cc URL/n 解码/vn ？/ww 
+sendRedirect/n (/wkz )/wky 和/cc forward/d (/wkz )/wky 方法/n 有/vyou 什么/ry 区别/n ？/ww 
+什么/ry 是/vshi HTTP/n 隧道/n ？/ww 
+浏览器/n 和/cc Servlet/n 通信/vn 使用/vn 的/ude1 是/vshi 什么/ry 协议/n ？/ww 
+什么/ry 是/vshi cookie/n ？/ww session/n 和/cc cookie/n 有/vyou 什么/ry 区别/n ？/ww 
+HTTP/n 响应/v 的/ude1 结构/n 是/vshi 怎么样/ryv 的/ude1 ？/ww 
+如何/ryv 知道/v 是/vshi 哪/ry 一个/mq 客户端/nz 的/ude1 机器/n 正在/d 请求/v 你/rr 的/ude1 Servlet/n ？/ww 
+什么/ry 是/vshi Servlet/n 链/ng (/wkz Servlet/n   Chaining/n )/wky ？/ww 
+什么/ry 是/vshi 服务端/nz 包含/v (/wkz Server/v   Side/n   Include/v )/wky ？/ww 
+什么/ry 是/vshi Web/n 应用/vn 程序/n ？/ww 
+doGet/n (/wkz )/wky 方法/n 和/cc doPost/n (/wkz )/wky 方法/n 有/vyou 什么/ry 区别/n ？/ww 
+解释/v 下/f Servlet/n 的/ude1 生命/n 周期/n 。/wj 
+Applet/n 和/cc Servlet/n 有/vyou 什么/ry 区别/n ？/ww 
+说/v 一下/mq Servlet/n 的/ude1 体系/n 结构/n 。/wj 
+什么/ry 是/vshi Servlet/n ？/ww 
+解释/v 下/f Serialization/a 和/cc Deserialization/n 。/wj 
+解释/v 下/f Marshalling/n 和/cc demarshalling/n 。/wj 
+RMI/n 中/f 使用/v RMI/n 安全/a 管理/vn 器/n (/wkz RMISecurityManager/n )/wky 的/ude1 目的/n 是/vshi 什么/ry ？/ww 
+什么/ry 是/vshi 分布式/b 垃圾/n 回收/v (/wkz DGC/n )/wky ？/ww 它/rr 是/vshi 如何/ryv 工作/vi 的/ude1 ？/ww 
+RMI/n 的/ude1 stub/n 扮演/v 了/ule 什么样/ryv 的/ude1 角色/n ？/ww 
+让/v RMI/n 程序/n 能/v 正确/ad 运行/vi 有/vyou 哪些/ry 步骤/n ？/ww 
+Naming/vi 类/n 的/ude1 bind/n (/wkz )/wky 和/cc rebind/v (/wkz )/wky 方法/n 有/vyou 什么/ry 区别/n ？/ww 
+RMI/n 的/ude1 绑定/n (/wkz Binding/a )/wky 是/vshi 什么/ry 意思/n ？/ww 
+RMI/n 中/f 的/ude1 远程/b 接口/n (/wkz Remote/a   Interface/a )/wky 扮演/v 了/ule 什么样/ryv 的/ude1 角色/n ？/ww 
+java.rmi.Naming/n 类/n 扮演/v 了/ule 什么样/ryv 的/ude1 角色/n ？/ww 
+RMI/n 体系/n 结构/n 分/v 哪/ry 几/m 层/qv ？/ww 
+RMI/n 体系/n 结构/n 的/ude1 基本/a 原则/n 是/vshi 什么/ry ？/ww 
+什么/ry 是/vshi RMI/n ？/ww 
+数据库/n 连接池/nz 是/vshi 什么/ry 意思/n ？/ww 
+什么/ry 时候/n 使用/v CallableStatement/n ？/ww 用/v 来/vf 准备/v CallableStatement/n 的/ude1 方法/n 是/vshi 什么/ry ？/ww 
+PreparedStatement/n 比/p Statement/n 有/vyou 什么/ry 优势/n ？/ww 
+解释/v 下/vf 驱动/v (/wkz Driver/nr1 )/wky 在/p JDBC/n 中/f 的/ude1 角色/n 。/wj 
+什么/ry 是/vshi JDBC/n ？/ww 
+Java/nz 的/ude1 Swing/n 组/n 件/q 使用/v 了/ule 哪/ry 种/q 设计/vn 模式/n ？/ww 
+Java/nz 的/ude1 布局/n 管理/vn 器/n 比/p 传统/n 的/ude1 窗口/s 系统/n 有/vyou 哪些/ry 优势/n ？/ww 
+GUI/n 组/n 件/q 如何/ryv 来/vf 处理/v 它/rr 自己/rr 的/ude1 事件/n ？/ww 
+事件/n 监听器/n 接口/n (/wkz event/n -/wp listener/n   interface/a )/wky 和/cc 事件/n 适配器/n (/wkz event/n -/wp adapter/n )/wky 有/vyou 什么/ry 关系/n ？/ww 
+裁剪/v (/wkz clipping/n )/wky 和/cc 重/d 绘/v (/wkz repainting/vd )/wky 有/vyou 什么/ry 联系/v ？/ww 
+Window/n 和/cc Frame/n 有/vyou 什么/ry 区别/n ？/ww 
+网格/n 包/v 布局/n (/wkz GridBagLayout/n )/wky 里面/f 的/ude1 元素/n 是/vshi 如何/ryv 布局/v 的/ude1 ？/ww 
+边缘/n 布局/n (/wkz BorderLayout/n )/wky 里面/f 的/ude1 元素/n 是/vshi 如何/ryv 布局/v 的/ude1 ？/ww 
+MenuItem/n 和/cc CheckboxMenuItem/n 的/ude1 区别/n 是/vshi 什么/ry ？/ww 
+什么/ry 是/vshi 裁剪/v (/wkz clipping/n )/wky ？/ww 
+说/v 出/vf 三/m 种/q 支持/v 重/d 绘/v (/wkz painting/n )/wky 的/ude1 组件/n 。/wj 
+哪些/ry Swing/n 的/ude1 方法/n 是/vshi 线程/n 安全/a 的/ude1 ？/ww 
+滚动/v 条/q (/wkz Scrollbar/n )/wky 和/cc 滚动/vn 面板/n (/wkz JScrollPane/n )/wky 有/vyou 什么/ry 区别/n ？/ww 
+什么/ry 是/vshi 布局/n 管理/vn 器/n ？/ww 
+弹/v 出/vf 式/k 选择/v 菜单/n (/wkz Choice/n )/wky 和/cc 列表/vi (/wkz List/n )/wky 有/vyou 什么/ry 区别/n 
+applet/n 安全/a 管理/vn 器/n 是/vshi 什么/ry ？/ww 它/rr 会/v 做/v 哪些/ry 工作/vn ？/ww 
+applet/n 类/n 加/v 载/v 器/n 是/vshi 什么/ry ？/ww 它/rr 会/v 做/v 哪些/ry 工作/vn ？/ww 
+从/p 网络/n 上/f 加/v 载/qt 的/ude1 applet/n 和/cc 从/p 本地/rzs 文件/n 系统/ad 加/v 载/qt 的/ude1 applet/n 有/vyou 什么/ry 区别/n ？/ww 
+什么/ry 是/vshi 不/d 受/v 信任/vn 的/ude1 applet/n ？/ww 
+Java/nz   applet/n 有/vyou 哪些/ry 限制/vn 条件/n ？/ww 
+Applet/n 和/cc 普通/a 的/ude1 Java/nz 应用/vn 程序/n 有/vyou 什么/ry 区别/n ？/ww 
+当/p applet/n 被/pbei 载入/v 的/ude1 时候/n 会/v 发生/v 什么/ry ？/ww 
+解释/v 一下/mq Applet/n 的/ude1 生命/n 周期/n 
+什么/ry 是/vshi Applet/n ？/ww 
+finally/d 代码/n 块/q 和/cc finalize/n (/wkz )/wky 方法/n 有/vyou 什么/ry 区别/n ？/ww 
+异常/d 处理/v 完成/v 以后/f ，/wd Exception/n 对象/n 会/v 发生/v 什么/ry 变化/vn ？/ww 
+Java/nz 中/f Exception/n 和/cc Error/n 有/vyou 什么/ry 区别/n ？/ww 
+Java/nz 中/f 的/ude1 两/m 种/q 异常/a 类型/n 是/vshi 什么/ry ？/ww 他们/rr 有/vyou 什么/ry 区别/n ？/ww 
+JVM/n 的/ude1 永久代/nz 中/f 会/v 发生/v 垃圾/n 回收/v 么/y ？/ww 
+在/p Java/nz 中/f ，/wd 对象/n 什么/ry 时候/n 可以/v 被/pbei 垃圾/n 回收/v ？/ww 
+串行/b (/wkz serial/a )/wky 收集/v 器/n 和/cc 吞吐量/n (/wkz throughput/d )/wky 收集/v 器/ng 的/ude1 区别/n 是/vshi 什么/ry ？/ww 
+Java/nz 堆/k 的/ude1 结构/n 是/vshi 什么/ry 样子/n 的/ude1 ？/ww 什么/ry 是/vshi 堆/v 中/f 的/ude1 永久代/nz (/wkz Perm/n   Gen/n   space/n )/wky ?/ww 
+如果/c 对象/n 的/ude1 引用/v 被/pbei 置/v 为/v null/a ，/wd 垃圾收集器/nz 是否/v 会/v 立即/d 释放/v 对象/n 占用/v 的/ude1 内存/n ？/ww 
+System.gc/n (/wkz )/wky 和/cc Runtime.gc/n (/wkz )/wky 会/v 做/v 什么/ry 事情/n ？/ww 
+Enumeration/v 接口/n 和/cc Iterator/n 接口/n 的/ude1 区别/n 有/vyou 哪些/ry ？/ww 
+HashSet/n 和/cc TreeSet/n 有/vyou 什么/ry 区别/n ？/ww 
+Java/nz 集合/n 类/q 框架/n 的/ude1 最佳/z 实践/v 有/vyou 哪些/ry ？/ww 
+如何/ryv 权衡/v 是/vshi 使用/v 无序/b 的/ude1 数组/n 还是/d 有序/a 的/ude1 数组/n ？/ww 
+你/rr 了解/v 大/a O/nz 符号/n (/wkz big/a -/wp O/nz   notation/n )/wky 么/y ？/ww 你/rr 能/v 给/v 出/vf 不同/a 数据/n 结构/n 的/ude1 例子/n 么/y ？/ww 
+什么/ry 是/vshi Java/nz 优先级/n 队列/n (/wkz Priority/n   Queue/n )/wky ？/ww 
+Comparable/a 和/cc Comparator/n 接口/n 是/vshi 干什么/vi 的/ude1 ？/ww 列/v 出/vf 它们/rr 的/ude1 区别/n 。/wj 
+Java/nz 支持/v 多/ad 继承/v 么/y ？/ww 
+接口/n 和/cc 抽象/a 类/n 的/ude1 区别/n 是/vshi 什么/ry ？/ww 
+Java/nz 中/f 的/ude1 方法/n 覆盖/v (/wkz Overriding/a )/wky 和/cc 方法/n 重载/vn (/wkz Overload/n )/wky 是/vshi 什么/ry 意思/n ？/ww 
+Java/nz 中/f ，/wd 什么/ry 是/vshi 构造/n 方法/n ？/ww 什么/ry 是/vshi 构造/n 方法/n 重载/vn ？/ww 什么/ry 是/vshi 复制/v 构造/n 方法/n ？/ww 
+Java/nz 支持/v 的/ude1 数据/n 类型/n 有/vyou 哪些/ry ？/ww 什么/ry 是/vshi 自动/d 拆/v 装箱/vi ？/ww 
+”/wyy static/a ”/wyy 关键字/n 是/vshi 什么/ry 意思/n ？/ww Java/nz 中/f 是否/v 可以/v 覆盖/v (/wkz override/a )/wky 一个/mq private/a 或者/c 是/vshi static/a 的/ude1 方法/n ？/ww 
+是否/v 可以/v 在/p static/a 环境/n 中/f 访问/v 非/b static/a 变量/n ？/ww 
+什么/ry 是/vshi 死锁/n (/wkz deadlock/n )/wky ？/ww 

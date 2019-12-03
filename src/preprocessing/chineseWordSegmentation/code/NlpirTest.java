@@ -101,7 +101,7 @@ public class NlpirTest {
 				System.out.println(String.format("已导入%d个用户词汇", nCount));
 				while ((lineTxt = bufferedReader.readLine()) != null) {
 					// 调用NLPIR系统中相应的函数进行分词与词性标注处理
-					nativeBytes = CLibrary.Instance.NLPIR_ParagraphProcess(lineTxt, 0);
+					nativeBytes = CLibrary.Instance.NLPIR_ParagraphProcess(lineTxt, 1);
 					// 将分词的结果写入到txt文档中
 					bufferedWriter.write(nativeBytes + "\r\n");
 				}
