@@ -25,6 +25,9 @@ public class CosineSimilarity {
 		// 分词与词性标注
 		String questionStrSegment = NlpirTest.singleSentence(questionStr);
 		System.out.println(questionStrSegment);
+		if(questionStrSegment.indexOf("如何")!=-1){
+            System.out.println("属于第八类，询问操作类");
+        }
 		// 停用词过滤
 		StopWordsFilter swf = new StopWordsFilter();
 		String questionStrStopWords = swf.singleRun(questionStrSegment);

@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c756b62b-af20-4e6e-be17-ab6fdafa73d0" name="Default Changelist" comment="数据预处理">
-      <change afterPath="$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tfidfSimilarity/Precomputation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java" afterDir="false" />
+    <list default="true" id="c756b62b-af20-4e6e-be17-ab6fdafa73d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resource/cilin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/A_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/A_.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/precomputation/squareRoot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/precomputation/squareRoot.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/preprocessed/preprocessedCorpus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/preprocessed/preprocessedCorpus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/preprocessed/preprocessedFeatureWords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/preprocessed/preprocessedFeatureWords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/segmentation/A_delEmpNRep_Segmentation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/segmentation/A_delEmpNRep_Segmentation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/segmentation/Q_delEmpNRep_Segmentation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/segmentation/Q_delEmpNRep_Segmentation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/stopWordsFilter/A_delEmpNRep_Segmentation_stopWordsFilter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/stopWordsFilter/Q_delEmpNRep_Segmentation_stopWordsFilter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/stopWordsFilter/Q_delEmpNRep_Segmentation_stopWordsFilter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/vectorization/IDF.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/vectorization/IDF.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/vectorization/Tf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/vectorization/Tf.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Corpus/FAQ/vectorization/TfIdf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file/Corpus/FAQ/vectorization/TfIdf.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/ICTCLAS2019/Data/20191202.err" beforeDir="false" afterPath="$PROJECT_DIR$/file/ICTCLAS2019/Data/20191202.err" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FAQSystem/META-INF/FAQSystem.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FAQSystem/preprocessing/chineseWordSegmentation/code/NlpirTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FAQSystem/preprocessing/chineseWordSegmentation/code/NlpirTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAQSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FAQSystem.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,70 +19,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="324" column="57" lean-forward="true" selection-start-line="324" selection-start-column="57" selection-end-line="324" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1142#1169#0" expanded="true" />
+                <element signature="e#1304#1331#0" expanded="true" />
+                <element signature="e#2187#2195#0" expanded="true" />
+                <element signature="e#2828#2836#0" expanded="true" />
+                <element signature="e#6219#6220#0" expanded="true" />
+                <element signature="e#6263#6264#0" expanded="true" />
+                <element signature="e#7006#7014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/preprocessed/preprocessedFeatureWords.txt">
+        <entry file="file://$PROJECT_DIR$/resource/cilin.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/Q.txt">
+        <entry file="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/precomputation/squareRoot.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="147" column="54" selection-start-line="147" selection-start-column="54" selection-end-line="147" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/A_.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5375">
-              <caret line="215" lean-forward="true" selection-start-line="215" selection-end-line="215" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/A.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="43" selection-end-line="215" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3950">
-              <caret line="162" column="30" lean-forward="true" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+            <state relative-caret-position="-2304">
+              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>corpus</find>
+      <find>为什么</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,13 +89,22 @@
         <option value="$PROJECT_DIR$/file/Corpus/FAQ/segmentation/Q_delEmpNRep_Segmentation.txt" />
         <option value="$PROJECT_DIR$/file/Dictionary/自定义分词词典/分词表扩展.txt" />
         <option value="$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java" />
-        <option value="$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" />
         <option value="$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java" />
         <option value="$PROJECT_DIR$/src/tfidfSimilarity/Precomputation.java" />
-        <option value="$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" />
         <option value="$PROJECT_DIR$/file/Corpus/FAQ/A_.txt" />
+        <option value="$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" />
+        <option value="$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" />
+        <option value="$PROJECT_DIR$/file/Dictionary/停用词词典/哈工大停用词表扩展.txt" />
+        <option value="$PROJECT_DIR$/src/preprocessing/wordextension/wordExtension.java" />
+        <option value="$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-67" />
@@ -150,64 +129,6 @@
             <path>
               <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
-              <item name="precomputation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
-              <item name="preprocessed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
-              <item name="rawCorpus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
-              <item name="stopWordsFilter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
-              <item name="FAQ" type="462c0819:PsiDirectoryNode" />
-              <item name="vectorization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,19 +147,7 @@
               <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
-              <item name="resultIntegration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tfidfSimilarity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FAQSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FAQSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vectorization" type="462c0819:PsiDirectoryNode" />
+              <item name="wordextension" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,13 +159,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575379467662" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project/QASystem" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576835942543" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/junit-4.0.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -265,10 +174,11 @@
       <recent name="preprocessing.stopWordsFilter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\FAQSystem\resource" />
+      <recent name="G:\FAQSystem\src\preprocessing\wordextension" />
       <recent name="G:\FAQSystem\src" />
       <recent name="G:\Project\FAQSystem\lib" />
       <recent name="G:\Project\FAQSystem\src" />
-      <recent name="G:\Project\FAQSystem" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CosineSimilarity">
+  <component name="RunManager" selected="JUnit.WordSimilarity.testGetSimilarity2">
     <configuration name="CosineSimilarity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tfidfSimilarity.CosineSimilarity" />
       <module name="FAQSystem" />
@@ -297,54 +207,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Precomputation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tfidfSimilarity.Precomputation" />
+    <configuration name="WordSimilarity.testGetCommonStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FAQSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tfidfSimilarity.*" />
+          <option name="PATTERN" value="preprocessing.wordextension.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="preprocessing.wordextension" />
+      <option name="MAIN_CLASS_NAME" value="preprocessing.wordextension.WordSimilarity" />
+      <option name="METHOD_NAME" value="testGetCommonStr" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResultIntegration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preprocessing.resultIntegration.ResultIntegration" />
+    <configuration name="WordSimilarity.testGetN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FAQSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="preprocessing.resultIntegration.*" />
+          <option name="PATTERN" value="preprocessing.wordextension.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="preprocessing.wordextension" />
+      <option name="MAIN_CLASS_NAME" value="preprocessing.wordextension.WordSimilarity" />
+      <option name="METHOD_NAME" value="testGetN" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWordsFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preprocessing.stopWordsFilter.StopWordsFilter" />
+    <configuration name="WordSimilarity.testGetSimilarity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FAQSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="preprocessing.stopWordsFilter.*" />
+          <option name="PATTERN" value="preprocessing.wordextension.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="preprocessing.wordextension" />
+      <option name="MAIN_CLASS_NAME" value="preprocessing.wordextension.WordSimilarity" />
+      <option name="METHOD_NAME" value="testGetSimilarity" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TfIdf_Tf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vectorization.TfIdf_Tf" />
+    <configuration name="WordSimilarity.testGetSimilarity2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FAQSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vectorization.*" />
+          <option name="PATTERN" value="preprocessing.wordextension.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="preprocessing.wordextension" />
+      <option name="MAIN_CLASS_NAME" value="preprocessing.wordextension.WordSimilarity" />
+      <option name="METHOD_NAME" value="testGetSimilarity2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -361,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordSimilarity.testGetSimilarity2" />
+        <item itemvalue="JUnit.WordSimilarity.testGetSimilarity" />
+        <item itemvalue="JUnit.WordSimilarity.testGetCommonStr" />
+        <item itemvalue="JUnit.WordSimilarity.testGetN" />
         <item itemvalue="Application.CosineSimilarity" />
-        <item itemvalue="Application.Precomputation" />
-        <item itemvalue="Application.TfIdf_Tf" />
-        <item itemvalue="Application.ResultIntegration" />
-        <item itemvalue="Application.StopWordsFilter" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +305,16 @@
       <workItem from="1575277295684" duration="1616000" />
       <workItem from="1575279508447" duration="4856000" />
       <workItem from="1575294054502" duration="920000" />
-      <workItem from="1575336688666" duration="9203000" />
+      <workItem from="1575336688666" duration="12930000" />
+      <workItem from="1575516360240" duration="2027000" />
+      <workItem from="1575699820751" duration="1421000" />
+      <workItem from="1575965632835" duration="785000" />
+      <workItem from="1576032087976" duration="1651000" />
+      <workItem from="1576138550142" duration="806000" />
+      <workItem from="1576397860313" duration="4436000" />
+      <workItem from="1576571605635" duration="3958000" />
+      <workItem from="1576636917041" duration="3046000" />
+      <workItem from="1576827978230" duration="5810000" />
     </task>
     <task id="LOCAL-00001" summary="数据预处理">
       <created>1575273416499</created>
@@ -392,17 +323,55 @@
       <option name="project" value="LOCAL" />
       <updated>1575273416499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="文本向量化">
+      <created>1575379524957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575379524958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="WordSimilarity_testGetN - 2019.12.20 at 17h 34m 35s.xml">
+      <configuration name="WordSimilarity.testGetN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetN - 2019.12.20 at 17h 35m 17s.xml">
+      <configuration name="WordSimilarity.testGetN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetN - 2019.12.20 at 17h 40m 08s.xml">
+      <configuration name="WordSimilarity.testGetN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetN - 2019.12.20 at 17h 44m 05s.xml">
+      <configuration name="WordSimilarity.testGetN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetN - 2019.12.20 at 17h 46m 03s.xml">
+      <configuration name="WordSimilarity.testGetN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetN - 2019.12.20 at 17h 47m 00s.xml">
+      <configuration name="WordSimilarity.testGetN" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetCommonStr - 2019.12.20 at 17h 49m 00s.xml">
+      <configuration name="WordSimilarity.testGetCommonStr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetSimilarity2 - 2019.12.20 at 17h 49m 25s.xml">
+      <configuration name="WordSimilarity.testGetSimilarity2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetSimilarity - 2019.12.20 at 17h 49m 51s.xml">
+      <configuration name="WordSimilarity.testGetSimilarity" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WordSimilarity_testGetSimilarity - 2019.12.20 at 17h 52m 41s.xml">
+      <configuration name="WordSimilarity.testGetSimilarity" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27123000" />
+    <option name="totallyTimeSpent" value="54790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.19213313" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.18910742" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -411,7 +380,38 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.047468353" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14262295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33442622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21311475" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30491802" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3180328" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.20877458" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.18910742" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.047468353" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35081968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,7 +431,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -441,12 +441,28 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="数据预处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据预处理" />
+    <MESSAGE value="文本向量化" />
+    <option name="LAST_COMMIT_MESSAGE" value="文本向量化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/stopWordsFilter/neg_Segmentation_stopWordsFilter.txt" />
-    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/preprocessed/preprocessedCorpus.txt" />
-    <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/preprocessed/preprocessedFeatureWords.txt" />
     <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/extractionOfFeatureWords/neg_Segmentation_stopWordsFilter_extOfFeaWor.txt" />
     <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/segmentation/neg_Segmentation.txt" />
     <entry file="file://$PROJECT_DIR$/file/Corpus/HotelTest/segmentation/pos_Segmentation.txt" />
@@ -509,30 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/Dictionary/停用词词典/哈工大停用词表扩展.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/deleteEmptyNRepetition/Q_delEmpNRep.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/deleteEmptyNRepetition/A_delEmpNRep.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -550,9 +546,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/stopWordsFilter/A_delEmpNRep_Segmentation_stopWordsFilter.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/stopWordsFilter/A_delEmpNRep_Segmentation_stopWordsFilter.txt" />
     <entry file="file://$PROJECT_DIR$/file/Corpus/FAQFeatureWords.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -562,13 +556,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file/Corpus/FAQCorpus.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="365" column="8" lean-forward="true" selection-start-line="365" selection-start-column="8" selection-end-line="365" selection-end-column="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/stopWordsFilter/Q_delEmpNRep_Segmentation_stopWordsFilter.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -582,26 +569,11 @@
         <state relative-caret-position="-225" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/vectorization/IDF.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/vectorization/Tf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tfidfSimilarity/Precomputation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/vectorization/TfIdf.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2310" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/preprocessing/resultIntegration/ResultIntegration.java">
@@ -611,48 +583,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3950">
-          <caret line="162" column="30" lean-forward="true" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/preprocessed/preprocessedFeatureWords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/Q.txt">
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/A.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="175">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/precomputation/squareRoot.txt">
+    <entry file="file://$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3950">
+          <caret line="162" column="30" selection-start-line="162" selection-start-column="30" selection-end-line="162" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/deleteEmptyNRepetition/A_delEmpNRep.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/vectorization/Tf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/vectorization/TfIdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="103" selection-start-line="6" selection-start-column="103" selection-end-line="6" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/vectorization/IDF.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/precomputation/squareRoot.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="147" column="54" selection-start-line="147" selection-start-column="54" selection-end-line="147" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/A.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="43" selection-end-line="215" />
+        <state relative-caret-position="511">
+          <caret line="150" column="58" selection-start-line="150" selection-start-column="58" selection-end-line="150" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/A_.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5375">
-          <caret line="215" lean-forward="true" selection-start-line="215" selection-end-line="215" />
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="238" column="36" lean-forward="true" selection-start-line="238" selection-start-column="36" selection-end-line="238" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Dictionary/停用词词典/哈工大停用词表扩展.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="295" column="2" selection-start-line="295" selection-start-column="2" selection-end-line="295" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/Corpus/FAQ/rawCorpus/Q.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="93" selection-start-line="93" selection-end-line="93" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk1.8/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/commons-io-2.6.jar!/org/apache/commons/io/IOUtils.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/chineseWordSegmentation/code/NlpirTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2304">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/wordextension/cilin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/FAQSystem/preprocessing/wordextension/WordSimilarity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300">
+          <caret line="92" column="35" lean-forward="true" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/cilin.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="324" column="57" lean-forward="true" selection-start-line="324" selection-start-column="57" selection-end-line="324" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1142#1169#0" expanded="true" />
+            <element signature="e#1304#1331#0" expanded="true" />
+            <element signature="e#2187#2195#0" expanded="true" />
+            <element signature="e#2828#2836#0" expanded="true" />
+            <element signature="e#6219#6220#0" expanded="true" />
+            <element signature="e#6263#6264#0" expanded="true" />
+            <element signature="e#7006#7014#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

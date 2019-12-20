@@ -18,6 +18,7 @@
     <file url="file://$PROJECT_DIR$/src/preprocessing/stopWordsFilter/StopWordsFilter.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/preprocessing/utility/FileOperate.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/preprocessing/utility/GetFileName.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/preprocessing/wordextension/WordSimilarity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/tfidfSimilarity/CosineSimilarity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/vectorization/TfIdf_Tf.java" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />

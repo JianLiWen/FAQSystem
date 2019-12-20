@@ -294,17 +294,17 @@ public class StopWordsFilter {
 		StopwordPropsList.add("xu");
 
 		// 代词
-		StopwordPropsList.add("r");
-		StopwordPropsList.add("rr");
-		StopwordPropsList.add("rz");
-		StopwordPropsList.add("rzt");
-		StopwordPropsList.add("rzs");
-		StopwordPropsList.add("rzv");
-		StopwordPropsList.add("ry");
-		StopwordPropsList.add("ryt");
-		StopwordPropsList.add("rys");
-		StopwordPropsList.add("ryv");
-		StopwordPropsList.add("rg");
+//		StopwordPropsList.add("r");
+//		StopwordPropsList.add("rr");
+//		StopwordPropsList.add("rz");
+//		StopwordPropsList.add("rzt");
+//		StopwordPropsList.add("rzs");
+//		StopwordPropsList.add("rzv");
+//		StopwordPropsList.add("ry");
+//		StopwordPropsList.add("ryt");
+//		StopwordPropsList.add("rys");
+//		StopwordPropsList.add("ryv");
+//		StopwordPropsList.add("rg");
 		
 		
 		String StrSolved = "";	// 用于保存该行语料中的非停用词
